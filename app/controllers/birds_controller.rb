@@ -22,4 +22,6 @@ class BirdsController < ApplicationController
     end
   end
 
+  private
+
 end
